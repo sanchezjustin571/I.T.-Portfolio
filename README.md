@@ -84,6 +84,8 @@ Repeat this series of steps at least one more time, or until you have achieved t
 </p>
 <br />
 
+# Creating Domain Controller
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
