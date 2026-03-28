@@ -10,7 +10,7 @@ Using Microsoft Azure we are going to create a Virtual Machines (VM's), Virtual 
 
 ## Environments and Technologies Used
 - Microsoft Azure
-- Remote Desktop
+
 
 
 Note
