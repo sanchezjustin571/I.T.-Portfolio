@@ -58,10 +58,12 @@ To begin, we will access the Microsoft Azure page, and navigate to virtual machi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1061" height="820" alt="image" src="https://github.com/user-attachments/assets/f70bb4d1-6fcd-42c4-a740-dcefe1d8f379" />
+<img width="1113" height="693" alt="image" src="https://github.com/user-attachments/assets/91195679-053e-4cfd-b3b1-5052cb4938d7" />
+<img width="630" height="114" alt="image" src="https://github.com/user-attachments/assets/f608d5a8-3206-41f0-bc06-83d4a4d4b73c" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now you will select your resource group, and name your virtual machine. Pay close attention to what operating system you are putting on the machine as well as  the "size" of the machine. Create Username, and password, and be sure to select the licensing box at the bottom. From here we click "next" until we reach the Networking page.
 </p>
 <br />
 
