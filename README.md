@@ -30,7 +30,7 @@ Note
 
 </p>
 <p>
-To begin, we will access the Microsoft Azure page, and navigate to virtual machines. This can be done either by the search bar at the top, or the drop down menu. Once there, select "Create".
+To begin, we will access the Microsoft Azure page, and navigate to virtual machines. This can be done either by the search bar at the top, or the drop down menu. Once there, click "Create", then select "Virtual Machine".
 </p>
 <br />
 
