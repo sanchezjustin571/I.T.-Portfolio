@@ -18,10 +18,8 @@ Note
 
 ---
 
-## 🛠️ Technologies Used
-- Python / JavaScript / HTML / CSS
-- Flask (if used)
-- SQLite / MySQL
+## Operating System
+- This breakdown is created using Windows platform.
 
 ---
 
