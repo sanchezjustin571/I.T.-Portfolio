@@ -72,7 +72,7 @@ Now you will select your resource group, and name your virtual machine. Pay clos
 
 </p>
 <p>
-Ensure your virtual machine is on the virtual network you created earlier.
+Ensure your virtual machine is on the virtual network you created earlier. Click "Review + Create" followed by "Create".
 </p>
 <br />
 
