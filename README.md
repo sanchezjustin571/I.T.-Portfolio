@@ -1,11 +1,10 @@
 # Creating-Virtual-Machines-Virtual-Networks-and-Domain-Controllers
 
 
-## 📌 Description
-Brief description of what your project does.
+## Objective
+Using Microsoft Azure we are going to create a Virtual Machines (VM's), Virtual Network (VNet), and a Domain Controller (DC). We will connect these all together on our virtual network.
 
-Example:
-This is a simple help desk ticket tracking system built to simulate real IT support workflows.
+
 
 ---
 
@@ -28,8 +27,3 @@ Example:
 
 ---
 
-## 💻 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/project-name.git
