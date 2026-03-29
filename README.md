@@ -2,7 +2,7 @@
 
 
 ## Objective
-Using Microsoft Azure we are going to create a Virtual Machines (VM's), Virtual Network (VNet), and a Domain Controller (DC). We will connect these all together on our virtual network.
+Using Microsoft Azure we are going to create a Virtual Machines (VM's), Virtual Network (VNet), and a Domain Controller (DC).
 
 
 
