@@ -92,9 +92,9 @@ Repeat this series of steps at least one more time, or until you have achieved t
 <img width="1087" height="707" alt="image" src="https://github.com/user-attachments/assets/86b87fdd-918f-4aa3-b6ab-54c1066621cd" />
 </p>
 <p>
-Good news! You largely know how to do this portion already simply by following "Creating Our Virtual Machine(s)" There is one very important note here: when we go to select "Image" you must make sure to select a datacenter or equivelant to i.e. Windows Server 2022 Datacenter: Azure Edition Hotpatch - x64 Gen2
+This portion is largely the same as "Creating Our Virtual Machine(s)" There is one very important note here: when we go to select "Image" you must make sure to select a datacenter or equivelant to i.e. Windows Server 2022 Datacenter: Azure Edition Hotpatch - x64 Gen2
 </p>
 <br />
 
 ---
-## Congratulations, we have created Virtual Machines, a Virtual Network, and a Domain Controller. With this in your Microsoft Azure you are free to go forward and practice more skills!
+## This completes the creation of Virtual Machine(s), Virtual Network, and Domain Controller
